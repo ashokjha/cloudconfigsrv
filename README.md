@@ -1,1 +1,1 @@
-Micro service common Configuration  
+Cloud configuration Server
